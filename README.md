@@ -32,6 +32,7 @@ https://linuxaudiofoundation.org/terms-and-conditions-of-uses/
 by using MusicLounge Audiophile Server you fully understand and agree with our terms and conditions.
 
 Building from scratch:
-To build your own audiophile server, simply download the corresponding distribution (see links above) and apply all tutorials from our website, starting here.
+To build your own audiophile server, simply download the corresponding distribution (see links above) and apply all tutorials from our website, starting here:
+https://linuxaudiofoundation.org/musiclounge-audio-distro-system-software-requirements/
 
 Image disc are provided to get started quickly with our audiophile server and are under the same license upon which the distribution is based (see links above for more info).
