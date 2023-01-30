@@ -12,34 +12,34 @@ Our MusicLounge Audiophile server distribution is provided for your convenience.
 
 # Edition 2021
 
-# for the Odroid C4 arm64
+for the Odroid C4 arm64
 Armbian 21.05.2 Focal core with Linux 5.10.34-meson64 – https://www.armbian.com/odroid-c4/
 Sour code: https://github.com/armbian
 
-# for the Raspberry PI 4 armhf (32 Bit)
+for the Raspberry PI 4 armhf (32 Bit)
 Raspberry Pi OS Lite with Linux 5.10 – https://www.raspberrypi.org/software/operating-systems/
 Source code: https://github.com/raspberrypi
 
-# for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
+for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
 Debian 10.9 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
 debian-live-10.9.0-amd64-netinst.iso or debian-live-10.9.0-amd64-standard.iso
 Source code: https://github.com/Debian
 
 # Edition 2023
 
-# for the Odroid C4 arm64
-# Armbian 21.05.2 Jammy core with Linux Kernel 6.0.13-meson64
+for the Odroid C4 arm64
+Armbian 21.05.2 Jammy core with Linux Kernel 6.0.13-meson64
 https://www.armbian.com/odroid-c4/
 Sour code: https://github.com/armbian
 
-# for the Raspberry PI 4 armhf (32 Bit)
-# Raspberry Pi OS Lite (bullseye) with Linux 5.15 – https://www.raspberrypi.org/software/operating-systems/
-# Source code: https://github.com/raspberrypi
+for the Raspberry PI 4 armhf (32 Bit)
+Raspberry Pi OS Lite (bullseye) with Linux 5.15 – https://www.raspberrypi.org/software/operating-systems/
+Source code: https://github.com/raspberrypi
 
-# for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
-# Debian 11 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
-# debian-live-11.6.0-amd64-netinst.iso or debian-live-11.6.0-amd64-standard.iso
-# Source code: https://github.com/Debian
+for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
+Debian 11 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
+debian-live-11.6.0-amd64-netinst.iso or debian-live-11.6.0-amd64-standard.iso
+Source code: https://github.com/Debian
 
 Read and understand our terms and conditions of use:
 
