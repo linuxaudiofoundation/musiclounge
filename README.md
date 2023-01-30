@@ -28,7 +28,7 @@ Source code: https://github.com/Debian
 # Edition 2023
 
 for the Odroid C4 arm64
-Armbian 21.05.2 Jammy core with Linux Kernel 6.0.13-meson64
+Armbian 22.11.4 Jammy core with Linux Kernel 6.0.13-meson64
 https://www.armbian.com/odroid-c4/
 Sour code: https://github.com/armbian
 
