@@ -10,20 +10,7 @@ This distribution includes several ready-to-use services like MPD server (Music 
 
 Our MusicLounge Audiophile server distribution is provided for your convenience. The MusicLounge Audio Server is strictly based on the following distributions on which we have applied all the instructions provided on our website in order to make your job easier, however we strongly suggest to read our tutorials to get a full control on your audio system and customize your installation.
 
-# Edition 2021
-
-for the Odroid C4 arm64
-Armbian 21.05.2 Focal core with Linux 5.10.34-meson64 – https://www.armbian.com/odroid-c4/
-Sour code: https://github.com/armbian
-
-for the Raspberry PI 4 armhf (32 Bit)
-Raspberry Pi OS Lite with Linux 5.10 – https://www.raspberrypi.org/software/operating-systems/
-Source code: https://github.com/raspberrypi
-
-for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
-Debian 10.9 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
-debian-live-10.9.0-amd64-netinst.iso or debian-live-10.9.0-amd64-standard.iso
-Source code: https://github.com/Debian
+In 2023 we created an alternate version of our amd64 distribution (MediaLounge) to include Kodi Home Theater software to take benefit of your audio and video system. This distribution contains all audiophile services of MusicLounge with the addition of Kodi 20.1 home theater software.
 
 # Edition 2023
 
@@ -40,6 +27,22 @@ for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian
 Debian 11 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
 debian-live-11.6.0-amd64-netinst.iso or debian-live-11.6.0-amd64-standard.iso
 Source code: https://github.com/Debian
+
+# Edition 2021 (outdated)
+
+for the Odroid C4 arm64
+Armbian 21.05.2 Focal core with Linux 5.10.34-meson64 – https://www.armbian.com/odroid-c4/
+Sour code: https://github.com/armbian
+
+for the Raspberry PI 4 armhf (32 Bit)
+Raspberry Pi OS Lite with Linux 5.10 – https://www.raspberrypi.org/software/operating-systems/
+Source code: https://github.com/raspberrypi
+
+for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
+Debian 10.9 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
+debian-live-10.9.0-amd64-netinst.iso or debian-live-10.9.0-amd64-standard.iso
+Source code: https://github.com/Debian
+
 
 Read and understand our terms and conditions of use:
 
