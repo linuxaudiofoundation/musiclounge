@@ -43,6 +43,7 @@ Debian 10.9 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
 debian-live-10.9.0-amd64-netinst.iso or debian-live-10.9.0-amd64-standard.iso
 Source code: https://github.com/Debian
 
+# 
 
 Read and understand our terms and conditions of use:
 
