@@ -10,7 +10,7 @@ This distribution includes several ready-to-use services like MPD server (Music 
 
 Our MusicLounge Audiophile server distribution is provided for your convenience. The MusicLounge Audio Server is strictly based on the following distributions on which we have applied all the instructions provided on our website in order to make your job easier, however we strongly suggest to read our tutorials to get a full control on your audio system and customize your installation.
 
-In 2023 we created an alternate version of our amd64 distribution (MediaLounge) to include Kodi Home Theater software to take benefit of your audio and video system. This distribution contains all audiophile services of MusicLounge with the addition of Kodi 20.1 home theater software.
+In 2023 we created an alternate and experimental version of our distribution (MediaLounge) to include Kodi Home Theater software to take benefit of your audio and video system. This distribution contains all audiophile services of MusicLounge with the addition of Kodi 20.1 home theater software.
 
 # Edition 2023
 
