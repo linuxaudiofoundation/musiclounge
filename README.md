@@ -8,7 +8,7 @@ The website is entirely dedicated to give you all info to build easily your own 
 
 This distribution includes several ready-to-use services like MPD server (Music Player Daemon), myMPD (MPD Web client), Spotify Connect, Roon Bridge, DLNA access, Upnp renderer, Airplay and remote control management.
 
-![MusicLounge Sample Audiophile System](https://github.com/linuxaudiofoundation/musiclounge/blob/main/musiclounge_audio_server_preamp_config.png)
+<img src="https://github.com/linuxaudiofoundation/musiclounge/blob/main/musiclounge_audio_server_preamp_config.png" width=50% height=50%>
 
 Our MusicLounge Audiophile server distribution is provided for your convenience. The MusicLounge Audio Server is strictly based on the following distributions on which we have applied all the instructions provided on our website in order to make your job easier, however we strongly suggest to read our tutorials to get a full control on your audio system and customize your installation.
 
