@@ -8,6 +8,8 @@ The website is entirely dedicated to give you all info to build easily your own 
 
 This distribution includes several ready-to-use services like MPD server (Music Player Daemon), myMPD (MPD Web client), Spotify Connect, Roon Bridge, DLNA access, Upnp renderer, Airplay and remote control management.
 
+![MusicLounge Sample Audiophile System](https://github.com/linuxaudiofoundation/musiclounge/blob/main/musiclounge_audio_server_preamp_config.png)
+
 Our MusicLounge Audiophile server distribution is provided for your convenience. The MusicLounge Audio Server is strictly based on the following distributions on which we have applied all the instructions provided on our website in order to make your job easier, however we strongly suggest to read our tutorials to get a full control on your audio system and customize your installation.
 
 In 2023 we created an alternate and experimental version of our distribution (MediaLounge) to include Kodi Home Theater software to take benefit of your audio and video system. This distribution contains all audiophile services of MusicLounge with the addition of Kodi 20.1 home theater software.
@@ -15,17 +17,16 @@ In 2023 we created an alternate and experimental version of our distribution (Me
 # Edition 2023
 
 for the Odroid C4 arm64
-Armbian 22.11.4 Jammy core with Linux Kernel 6.0.13-meson64
+Armbian 22.11.4 Jammy core
 https://www.armbian.com/odroid-c4/
 Sour code: https://github.com/armbian
 
-for the Raspberry PI 4 armhf (32 Bit)
+for the Raspberry PI 4 armhf/arm64 (32/64 Bit)
 Raspberry Pi OS Lite (bullseye) with Linux 5.15 – https://www.raspberrypi.org/software/operating-systems/
 Source code: https://github.com/raspberrypi
 
 for barebone x64 PC on amd64 platform (Intel NUC, Brix, …) we recommend Debian or
-Debian 11 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
-debian-live-11.6.0-amd64-netinst.iso or debian-live-11.6.0-amd64-standard.iso
+Debian 12 NETINSTALL or standard https://www.debian.org/CD/http-ftp/#mirrors
 Source code: https://github.com/Debian
 
 # Edition 2021 (outdated)
